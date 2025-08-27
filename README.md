@@ -214,9 +214,12 @@ python test_setup.py
 4. 📤 Push to branch (`git push origin feature/amazing-feature`)
 5. 🔃 Open Pull Request
 
-## 📄 License
+## 📸 result
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+https://github.com/user-attachments/assets/0757245e-a3ba-4de8-8023-3c6e05272677
+
+
 
 ## 🙏 Acknowledgments
 
